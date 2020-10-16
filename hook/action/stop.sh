@@ -1,7 +1,7 @@
 #/usr/bin/env bash
 
 EXE_NAME="WebMenu"
-EXE_PATH="../MiSTer_WebMenu"
+EXE_PATH="../MiSTer_WebMenu/$EXE_NAME"
 
 die(){
   echo "ERROR $1"
